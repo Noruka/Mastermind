@@ -1,5 +1,6 @@
 # Mastermind
-Juego de mesa llamado mastermind pasado a java.
+Juego de mesa llamado mastermind pasado a Java.
+Board game made in Java command line.
 
 El ordenador generará un codigo de colores, un patron, y el usuario debe, tras varios intentos, adivinar el patrón.
 
